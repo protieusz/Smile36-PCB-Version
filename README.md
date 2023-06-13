@@ -1,7 +1,7 @@
 # Smile36-PCB-Version
 Converted From Handwire To PCB Using EasyEDA
 
-Current Rev 5 pcb has fixed the issues of Rev 1 and also by adding multi layer pads, thru holes for the mcu solder pads, larger pads for easier soldering, added more screw holes in the middle of the pcb so less flexy and stability.  However the Rev 5 pcbs will be untested since I do not have the funds to do a re-print.  Hence the are for public and print, use for at your own risks!  Don't come to me and bitch about it.  It is what it is. No support will be given. Having said that the Rev 5 pcb should work.  Auto routed and not DRC errors. Good luck and have fun.
+Current Rev 5 pcb has fixed the issues of Rev 1 and also by adding multi layer pads, thru holes for the mcu solder pads, larger pads for easier soldering, added more screw holes in the middle of the pcb so less flexy and stability.  However the Rev 5 pcbs will be untested since I do not have the funds to do a re-print.  Hence the are for public and print, use for at your own risks!  Don't come to me and bitch about it.  It is what it is. No support will be given. Having said that the Rev 5 pcb should work.  Auto routed and no DRC errors. Good luck and have fun.
 
 Added a case STEP file that was used for handwire version. Please modify the STEP file to match the pcb version.
 
