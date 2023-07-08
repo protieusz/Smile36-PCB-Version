@@ -37,7 +37,7 @@ Diode soldering.
 ![IMG_9137](https://github.com/protieusz/Smile36-PCB-Version/assets/118025702/a8551ca6-5421-4c7a-944f-01163da535c2)
 ![IMG_9138](https://github.com/protieusz/Smile36-PCB-Version/assets/118025702/ee845e17-ca04-47fe-a640-3df4128c9595)
 
-Packaging pics.
+Unpackaging pics.
 ![IMG_9115](https://github.com/protieusz/Smile36-PCB-Version/assets/118025702/1e4ab6c4-87f6-4ab8-8105-76df57641a20)
 ![IMG_9116](https://github.com/protieusz/Smile36-PCB-Version/assets/118025702/373ff0e2-c36a-4a00-a2a3-eaa684d71f2b)
 ![IMG_9117](https://github.com/protieusz/Smile36-PCB-Version/assets/118025702/f07554df-fc20-40de-92c7-ade6569878f7)
