@@ -1,5 +1,7 @@
 # Smile36-PCB-Version
 
+Update: July 9, 2023. Got featured in https://kbd.news/Smile36-2056.html
+
 Update: July 7, 2023
 
 A special thank you to [![PCBWay](https://github.com/protieusz/Smile36-PCB-Version/assets/118025702/3fe17713-d683-44ef-8f50-1d097865489f)](https://www.pcbway.com) for sponsoring my Rev 8 of the Smile 36 GRIN layout keyboard that has every thing working compared to Rev 1 which has the issue of the rows not working.  
