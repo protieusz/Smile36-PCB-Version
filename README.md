@@ -8,7 +8,7 @@ Initial order arrived with easily scratch matte black silk screen on all 5 pcbs.
 
 The following are the pictures of my brand new Smile 36 Rev 8 with no more handwiring fixes.
 
-Final Smile 36 with no case yet. Note: Case has not been tested yet. Use at yet. As a matter of fact, use everything here at your own risk! No support given.
+Final Smile 36 with no case yet. Note: Case has not been tested yet. As a matter of fact, use everything here at your own risk! No support given.
 ![IMG_9147](https://github.com/protieusz/Smile36-PCB-Version/assets/118025702/ad45a577-4d4b-4b02-b3f5-77821b0b6041)
 
 Bottom side using another spare pcb as bottom plate.
