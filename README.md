@@ -1,5 +1,7 @@
 # Smile36-PCB-Version
 
+I accept any tips or donations of a cup of coffee to help keep me motivate but you don't have to if you don't want to. Thanks. https://ko-fi.com/protieusz
+
 Update: July 9, 2023. Got featured in https://kbd.news/Smile36-2056.html
 
 Update: July 7, 2023
