@@ -12,6 +12,17 @@ Initial order arrived with easily scratch matte black silk screen on all 5 pcbs.
 
 The following are the pictures of my brand new Smile 36 Rev 8 with no more handwiring fixes.
 
+Smile 36 case inspired by SpongeBob SquarePants.
+
+![IMG_3129](https://github.com/user-attachments/assets/b9ef83ec-d71d-4195-b07c-87269c2aec4f)
+![IMG_3128](https://github.com/user-attachments/assets/d96f2094-e91d-4f99-a594-11db6d64dca9)
+![IMG_3124](https://github.com/user-attachments/assets/4584507e-c2cd-46cf-bff0-806da451128e)
+![IMG_3125](https://github.com/user-attachments/assets/acf4e316-ebe5-4f61-b854-dd781d7b2f36)
+![IMG_3123](https://github.com/user-attachments/assets/b2bb570f-9e2e-4f9e-8a4f-873bd7124362)
+![IMG_3121](https://github.com/user-attachments/assets/be5caa17-2cfe-43cf-b436-e8a8fe17479d)
+![IMG_3117](https://github.com/user-attachments/assets/fba266d8-63e6-4e4e-97e6-53f706beb72e)
+![IMG_3120](https://github.com/user-attachments/assets/4c92b9dc-afd3-40d9-ac27-f60a04d7ece9)
+
 Final Smile 36 with no case yet. Note: Case has not been tested yet. As a matter of fact, use everything here at your own risk! No support given.
 ![IMG_9147](https://github.com/protieusz/Smile36-PCB-Version/assets/118025702/ad45a577-4d4b-4b02-b3f5-77821b0b6041)
 
