@@ -12,7 +12,7 @@ Initial order arrived with easily scratch matte black silk screen on all 5 pcbs.
 
 The following are the pictures of my brand new Smile 36 Rev 8 with no more handwiring fixes.
 
-Smile 36 case inspired by SpongeBob SquarePants.
+Smile 36 case inspired by [SpongeBob SquarePants](https://ca.ghostkeyboards.com/products/spongebob-k1-pro-mechanical-keyboard)
 
 ![IMG_3129](https://github.com/user-attachments/assets/b9ef83ec-d71d-4195-b07c-87269c2aec4f)
 ![IMG_3128](https://github.com/user-attachments/assets/d96f2094-e91d-4f99-a594-11db6d64dca9)
