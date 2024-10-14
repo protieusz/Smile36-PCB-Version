@@ -12,6 +12,14 @@ Initial order arrived with easily scratch matte black silk screen on all 5 pcbs.
 
 The following are the pictures of my brand new Smile 36 Rev 8 with no more handwiring fixes.
 
+# Disclaimer
+
+This work is a non-commercial fan creation of custom keyboard case and PCB in the shape of SpongeBob & Patrick Star from the SpongeBob SquarePants series. It is made out of love and respect for the SpongeBob SquarePants series. All rights to SpongeBob SquarePants and related content are owned by Nickelodeon and its associated companies. The images, names, storylines and other elements of SpongeBob SquarePants used in this work are the property of their respective copyright holders. Unauthorized commercial use is strictly prohibited. The SpongeBob SquarePants and Patrick Star cases will NOT be made public to copyright issues and will be use for private only.
+
+Please print and use the open sourced files at your own risk.
+
+# Pictures
+
 Update: October 8, 2024. Patrick Star Smile 36 case inspired by Patrick from SpongeBob SquarePants.
 
 ![IMG_3156](https://github.com/user-attachments/assets/4e75bf2d-f698-4406-9c91-974d6acbd9c8)
