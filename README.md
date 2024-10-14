@@ -14,7 +14,7 @@ The following are the pictures of my brand new Smile 36 Rev 8 with no more handw
 
 # Disclaimer
 
-This work is a non-commercial fan creation of custom keyboard case and PCB in the shape of SpongeBob & Patrick Star from the SpongeBob SquarePants series. It is made out of love and respect for the SpongeBob SquarePants series. All rights to SpongeBob SquarePants and related content are owned by Nickelodeon and its associated companies. The images, names, storylines and other elements of SpongeBob SquarePants used in this work are the property of their respective copyright holders. Unauthorized commercial use is strictly prohibited. The SpongeBob SquarePants and Patrick Star cases will NOT be made public to copyright issues and will be use for private only.
+This work is a non-commercial fan creation of custom keyboard case and PCB in the shape of SpongeBob & Patrick Star from the SpongeBob SquarePants series. It is made out of love and respect for the SpongeBob SquarePants series. All rights to SpongeBob SquarePants and related content are owned by Nickelodeon and its associated companies. The images, names, storylines and other elements of SpongeBob SquarePants used in this work are the property of their respective copyright holders. Unauthorized commercial use is strictly prohibited. The SpongeBob SquarePants and Patrick Star case files will NOT be made public to copyright issues and will be use for private only.
 
 Please print and use the open sourced files at your own risk.
 
