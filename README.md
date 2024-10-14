@@ -12,6 +12,34 @@ Initial order arrived with easily scratch matte black silk screen on all 5 pcbs.
 
 The following are the pictures of my brand new Smile 36 Rev 8 with no more handwiring fixes.
 
+Update: October 8, 2024. Patrick Star Smile 36 case inspired by Patrick from SpongeBob SquarePants.
+
+![IMG_3156](https://github.com/user-attachments/assets/4e75bf2d-f698-4406-9c91-974d6acbd9c8)
+![IMG_3152](https://github.com/user-attachments/assets/7e18b5f5-d66e-4e9b-9df1-34cfc773526b)
+![IMG_3155](https://github.com/user-attachments/assets/9480ea7d-630d-4c3d-9eca-d8c8d73eda06)
+![IMG_3151](https://github.com/user-attachments/assets/63923406-a045-49a9-bf35-25a69ee9ddc7)
+![IMG_3149](https://github.com/user-attachments/assets/e7c2d61a-31f5-4861-95c3-4082922fac3d)
+![IMG_3153](https://github.com/user-attachments/assets/10bbfe45-47e1-46fa-bdd8-9acb42aff576)
+![IMG_3162](https://github.com/user-attachments/assets/a98af36b-b815-403f-b3a0-41fd59adce0d)
+![IMG_3163](https://github.com/user-attachments/assets/fa3ae61a-e408-4389-bd10-a4e73e09dcf8)
+
+Some hiccup accident while soldering the mcu. Mcu was soldered on the wrong side. Tried hot plate and hot air and the damn mcu pcb will not come off. All the mcu components came off.
+So then I gave up on desoldering the mcu and soldered a new mcu on the correct side and it works. There is hope if you have accidentally "F" up on the mcu. My top and bottom case was created
+to accomodate 2 mcu soldered on top and bottom side of the Smile36 PCB. Just make sure you desolder all the components on the mcu PCB and use a yellow tape to prevent any future shorts.
+
+![IMG_3191](https://github.com/user-attachments/assets/e607c41f-4e8e-4719-96d2-bce52c3a89ae)
+![IMG_3190](https://github.com/user-attachments/assets/d67e65b4-c046-4baf-b2e1-5f131994936a)
+![IMG_3189](https://github.com/user-attachments/assets/6bfa44da-e729-483d-8f0f-fddfb0e74c6d)
+![IMG_3188](https://github.com/user-attachments/assets/307ff48c-250d-4f16-a9ed-4e16c8b8b69a)
+![IMG_3187](https://github.com/user-attachments/assets/3de1e0ae-4a2c-4041-b56b-354b1d1525f3)
+![IMG_3186](https://github.com/user-attachments/assets/cc91f24a-b4db-4d30-9ec7-91fe6e453f43)
+![IMG_3185](https://github.com/user-attachments/assets/f948472e-be81-42c6-a880-283dd1ccce25)
+![IMG_3184](https://github.com/user-attachments/assets/5ec73181-77fb-45f7-a454-6c694246063d)
+![IMG_3183](https://github.com/user-attachments/assets/cafab7ee-1826-48aa-9a58-7a951e36d15d)
+![IMG_3182](https://github.com/user-attachments/assets/1763b1ec-7c3a-4112-b1ec-136858e642d6)
+![IMG_3181](https://github.com/user-attachments/assets/2183061c-8963-46fb-9efd-0f0a27ed40b6)
+![IMG_3180](https://github.com/user-attachments/assets/9a72cdc9-12e9-4c76-b219-0910049639ac)
+
 Update: October 4, 2024. Smile 36 case inspired by SpongeBob SquarePants. Featured on [KBDnews](https://kbd.news/Behind-the-scenes-176-2493.html)
 
 ![IMG_3129](https://github.com/user-attachments/assets/b9ef83ec-d71d-4195-b07c-87269c2aec4f)
