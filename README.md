@@ -2,6 +2,25 @@
 
 I accept any tips or donations of a cup of coffee to help keep me motivate but you don't have to if you don't want to. Thanks. https://ko-fi.com/protieusz
 
+Update Aug 25, 2025. Got sponsored by <img width="500" height="137" alt="PCBWay" src="https://github.com/user-attachments/assets/36bd508a-a805-42f2-813d-c35cd24b7561" /> for PETG print for my new case design of Smile 36 "Chatacabra" from Monster Hunter Wilds.
+
+PCBWay:
+For all you 3D printing needs, PCBWay got all types of materials for your printing needs. Ranging from PLA to Resin, https://www.pcbway.com/rapid-prototyping/3d-printing/ for more info. Quality check by PCWay was very good. Their engineer will notify you if you have thin walls in your design and if you want to "risk" printing it. Printed items arrived with quality packing to ensure no damage or scratches during transport. Well worth it. Printing of my PETG for top and bottom case took around 1 day and ship out on the same day via UPS. The item was shipped out on Friday and arrived to my home address on the next Monday. Print quality is very good, rigid and no scratches. Thank you PCBWay!
+
+Smile 36 Chatacabra Pics:
+Chatacabra image was borrowed from https://cults3d.com/en/3d-model/jewelry/chatacabra-keychain-mh-wilds-chatacabra-llavero-monster-hunter by NOGARDLABS. Please support & buy his keychain STL files for 3D print. The design was cleaned up very nicely so that it was easily incorporated into my custom keeb design. The design was modified to have the keychain hole removed.
+
+![IMG_5257](https://github.com/user-attachments/assets/fda191b0-53e8-42ea-94d0-b80b6aa11722)
+![IMG_5256](https://github.com/user-attachments/assets/3a41cecb-e9d2-40aa-9f28-de3d7174a21f)
+![IMG_5255](https://github.com/user-attachments/assets/e472543c-fdb1-40c2-b734-1f332fee24fa)
+![IMG_5254](https://github.com/user-attachments/assets/82b165c5-b547-4cac-af2c-62ebe749d987)
+![IMG_5253](https://github.com/user-attachments/assets/a6dedd9a-50fc-4921-970a-e42daf8af71b)
+![IMG_5252](https://github.com/user-attachments/assets/5711b488-3829-492e-acfa-92d1fc59652f)
+
+The acrylic paint doesn't go smooth on the PETG material but still looks good.
+![IMG_5259](https://github.com/user-attachments/assets/cc5b9112-c766-484e-864c-9dcafe858630)
+
+
 Update: July 9, 2023. Got featured in https://kbd.news/Smile36-2056.html
 
 Update: July 7, 2023
@@ -14,7 +33,7 @@ The following are the pictures of my brand new Smile 36 Rev 8 with no more handw
 
 # Disclaimer
 
-This work is a non-commercial fan creation of custom keyboard case and PCB in the shape of SpongeBob & Patrick Star from the SpongeBob SquarePants series. It is made out of love and respect for the SpongeBob SquarePants series. All rights to SpongeBob SquarePants and related content are owned by Nickelodeon and its associated companies. The images, names, storylines and other elements of SpongeBob SquarePants used in this work are the property of their respective copyright holders. Unauthorized commercial use is strictly prohibited. The SpongeBob SquarePants and Patrick Star case files will NOT be made public to copyright issues and will be use for private only.
+This work is a non-commercial fan creation of custom keyboard case and PCB in the shape of SpongeBob & Patrick Star, Chatacabra from the Monster Hunter Wilds & SpongeBob SquarePants series. It is made out of love and respect for the Monster Hunter Wilds & SpongeBob SquarePants series. All rights to Monster Hunter Wilds & SpongeBob SquarePants and related content are owned by Capcom & Nickelodeon and its associated companies. The images, names, storylines and other elements of Chatacabra & SpongeBob SquarePants used in this work are the property of their respective copyright holders. Unauthorized commercial use is strictly prohibited. The Chatacabra & SpongeBob SquarePants and Patrick Star case files will NOT be made public to copyright issues and will be use for private only.
 
 Please print and use the open sourced files at your own risk.
 
