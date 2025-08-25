@@ -20,6 +20,11 @@ Chatacabra image was borrowed from https://cults3d.com/en/3d-model/jewelry/chata
 The acrylic paint doesn't go smooth on the PETG material but still looks good.
 ![IMG_5259](https://github.com/user-attachments/assets/cc5b9112-c766-484e-864c-9dcafe858630)
 
+My PLA 3D Printed Version Using My Bambu A1:
+
+![IMG_5250](https://github.com/user-attachments/assets/4a7e980a-166c-470a-87b5-3cfe80f6a21b)
+![IMG_5245](https://github.com/user-attachments/assets/68bfb655-9cec-4d5a-bba3-5c79bb4fb08e)
+
 
 Update: July 9, 2023. Got featured in https://kbd.news/Smile36-2056.html
 
